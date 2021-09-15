@@ -1,0 +1,17 @@
+{
+    "include": [
+        "./src/**/*"
+    ],
+    "compilerOptions": {
+        "strict": true,
+        "target": "esnext",
+        "esModuleInterop": true,
+        "downlevelIteration": true,
+        "lib": [
+            "dom",
+            "es2016",
+            "esnext"
+        ],
+        "jsx": "react-jsx"
+    }
+}

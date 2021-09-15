@@ -1,0 +1,23 @@
+      // draw() {
+      //   //draw a circle
+      //   ctx.fillStyle = "#373A36";
+      //   ctx.beginPath();
+      //   ctx.arc(this.x, this.y, this.r - 8, 0, Math.PI * 2, false);
+      //   ctx.lineWidth = 2;
+      //   ctx.strokeStyle = "white";
+      //   ctx.stroke();
+      //   ctx.closePath();
+      //   ctx.fill();
+      //   ctx.fillStyle = "#fff";
+      //   ctx.font = `100 ${this.r / 5}px Helvetica`;
+      //   ctx.textAlign = "center";
+      //   ctx.textBaseline = "middle";
+      //   // ctx.fillText(this.t, this.x, this.y);
+      //   for (const [i, fragment] of fragmentText(
+      //     this.t,
+      //     this.r * 2 - 8
+      //   ).entries()) {
+      //     ctx.fillText(fragment, this.x, this.y + i * 20);
+      //   }
+      // }
+
